@@ -1,2 +1,3 @@
 # MPU6500
-Servicio
+Este repositorio contendra el desarrollo del codigo para los sensores
+
